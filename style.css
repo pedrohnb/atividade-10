@@ -60,6 +60,6 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    gap: 50px;
-    margin-top: 20px;
+    gap: 25px;
+    margin-top: 50px;
 }
