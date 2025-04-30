@@ -12,6 +12,7 @@ header{
     height: 400px;
     display: flex;
     align-items: flex-end;
+    border: 3px solid #000;
     background-image: url(https://www.gamevicio.com/static/imagens_up/big/19/os-20-melhores-jogos-indies-da-oitava-geracao-de-videogames-018274.webp); 
     background-repeat: no-repeat;
     background-size: cover;  
